@@ -4,7 +4,7 @@
   "description": "Playing around a bit with server-side pre-rendering.",
   "main": "index.js",
   "scripts": {
-    "build": "browserify -t babelify index.js -o build/compiled.js",
+    "build": "mkdir -p build && browserify -t babelify index.js -o build/compiled.js",
     "prestart": "npm run build",
     "start": "node build/compiled.js"
   },

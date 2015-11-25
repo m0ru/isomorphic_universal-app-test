@@ -1,3 +1,7 @@
 
-<http://stackoverflow.com/questions/29337433/using-babel-js-instead-of-browserify-to-compile-to-bundle>
 
+<https://github.com/jaredallard/nexe>
+
+<http://expressjs.com/guide/routing.html>
+
+<https://github.com/cyclejs/cycle-examples/blob/master/isomorphic/package.json>
